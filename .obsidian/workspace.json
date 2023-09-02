@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/显示器 Display Device.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b87b6f58ddf775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/安装Windows11与Manjaro双系统.md",
+                "file": "Note/Windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/安装Windows11与Manjaro双系统.md",
+                "file": "Note/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/安装Windows11与Manjaro双系统.md",
+                "file": "Note/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/安装Windows11与Manjaro双系统.md"
+                "file": "Note/Windows.md"
               }
             }
           }
@@ -169,16 +156,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "25b87b6f58ddf775",
+  "active": "edddfb7dcb8a278d",
   "lastOpenFiles": [
     "Note/显示器 Display Device.md",
-    "Note/安装Windows11与Manjaro双系统.md",
-    "Note/MAC常用快捷键.md",
-    "Note/Clash如何搭配Chrome插件Proxy Switch Omega进行代理.md",
     "Note/相机 Camera.md",
+    "Note/Untitled.md",
+    "Note/Windows.md",
+    "Note/Clash如何搭配Chrome插件Proxy Switch Omega进行代理.md",
+    "Note/MAC常用快捷键.md",
     "Note/Obsidian同步到Onedrive.md",
     "Note/Picgo+Github 创建个人图床.md",
-    "Note/Windows.md",
+    "Note/安装Windows11与Manjaro双系统.md",
     "Note/Ref/电脑电源状态解析.pdf",
     "Template/Diary_Template.md",
     "Template/Meeting_Template.md"

@@ -26,7 +26,7 @@ github地址:[Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)
 
 官网地址[landrop](https://landrop.app/#top)
 
-多设置局域网传文件
+多平台局域网内相互传文件
 
 ## Power Toys
 
@@ -34,3 +34,8 @@ github地址:[Power Toys](https://github.com/microsoft/PowerToys)
 
 微软官方出品的windows平台小工具集合
 
+## TTime
+
+官网地址: [TTime](https://ttime.timerecord.cn/)
+
+windows平台类似Mac平台Bob翻译的软件

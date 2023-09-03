@@ -11,6 +11,12 @@
 github地址:[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 
 windows激活工具
+
+## Clash图形客户端
+
+github地址[Clash](https://github.com/Fndroid/clash_for_windows_pkg)
+
+Clash用于科学上网的有图形界面的软件
 ## Traffic Monitor
 
 github地址:[Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)
